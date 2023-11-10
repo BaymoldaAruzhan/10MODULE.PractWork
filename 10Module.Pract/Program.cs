@@ -144,7 +144,6 @@ namespace _10Module.Pract
             new Worker(),
             new TeamLeader()
         });
-
             // Строим дом
             house.AddPart(new Basement());
             house.AddPart(new Walls());
